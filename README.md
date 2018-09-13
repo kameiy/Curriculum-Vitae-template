@@ -7,17 +7,20 @@
 |Name|かめい|
 |Twitter|[@kameiy](https://twitter.com/kameiy)|
 |Qiita|[kameiy](http://qiita.com/kameiy)|
+|github|[kameiy](https://github.com/kameiy)|
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
+
   - C#
   - C++
   - VB.net
   - Java
-  - Ruby
+  - Ruby on Rails
+  - PHP laravel
   - javascript
   - SQL
 
@@ -39,6 +42,13 @@
   - Rails Tutorialを一通りやりました。
 
 - JQuery
+
+### データベース
+
+- MySQL
+- Oracle
+- SQLServer
+- PostgreSQL
 
 ### その他
 
@@ -62,14 +72,16 @@
 #### 社内研修（C言語）(2012/09-2012/10)
 
 - 2ヶ月研修を行った。
+- 電話帳システムの作成
 使用言語・技術: C
 
 #### 表面実装機制御システム開発(2012/11-2015/03)
 
-- 職務内容の詳細を箇条書きでかく
+- 工作機械メーカへ派遣
+- 機械制御システムの基本設計から結合検査
 
-職務: 業務Windowsシステムエンジニア
-使用言語・技術: C++
+職務: 組み込みシステムエンジニア
+使用言語・技術: C++、Subversion、Redmine
 
 #### データ解析ツール開発(2015/04-2016/07)
 
@@ -81,24 +93,30 @@
 - 解析用ツールの作成
 - 解析用DBの移行（Oracle ExaData -> AWS RedShift）
 
-職務: Webシステムサーバサイドエンジニア
+職務: 業務システムエンジニア
 使用言語・技術: Oracle、Redshift、MySQL、VB.Net、ASP.Net
 
 #### 倉庫管理システム開発(2016/08-2016/09)
 
-- 職務内容の詳細を箇条書きでかく
+- ベトナムでオフショア開発したシステムの改修案件
+- 製造から検査
+- 主にバグ修正を行った
 
-職務: Webシステムフロントエンドエンジニア
-使用言語・技術: JAVA、javascript
+職務: Webシステムエンジニア
+使用言語・技術: JAVA、JSF、javascript
 
 #### Webシステム開発(2016/10-2016/12)
 
-- 職務内容の詳細を箇条書きでかく
+- Canvasを使用しての図形描画制御を行った
 
-職務: プロジェクトマネージャー
+職務: Webフロントエンドエンジニア
 使用言語・技術:　javascript(Canvas)
 
 #### 表面実装機生産管理システム開発(2017/01-2017/10)
 
-- 職務内容の詳細を箇条書きでかく
-使用言語・技術: C#.Net
+- 要件定義から検査
+- 見積作成・プロジェクト管理
+- 既存システムへの機能追加
+
+職務: プロジェクトマネージャ
+使用言語・技術: C#.Net、Oracle、PostgreSQL、SQLServer
