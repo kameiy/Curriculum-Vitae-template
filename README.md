@@ -151,3 +151,16 @@
 
 職務: プロジェクトマネージャ
 使用言語・技術: C#.Net、Oracle、PostgreSQL、SQLServer
+
+#### WebAPIアプリケーション開発(2018/11-2018/11)
+
+- 既存システム（ASP.Net）のリプレイス
+- PHP Phalcon, Node.js Expressを使用してWebAPIアプリケーション作成
+
+使用言語・技術: PHP Phalcon, Node.js Express, MySQL, PostgreSQL
+
+#### カスタマイズ可能なWebアプリケーション開発(2018/12-)
+
+- ウイジェットを組み合わせて画面を作成できるWebアプリケーションの開発
+
+使用言語・技術: HTML, CSS, Javascript, Node-Red, sqlite
